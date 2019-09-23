@@ -1,0 +1,21 @@
+{
+  "name": "Fiap",
+  "short_name": "Fiap",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "fullscreen",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "img/fiap.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "img/fiap.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}

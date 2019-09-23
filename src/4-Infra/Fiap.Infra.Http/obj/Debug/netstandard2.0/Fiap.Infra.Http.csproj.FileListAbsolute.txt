@@ -1,0 +1,12 @@
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\bin\Debug\netstandard2.0\Fiap.Infra.Http.deps.json
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\bin\Debug\netstandard2.0\Fiap.Infra.Http.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\bin\Debug\netstandard2.0\Fiap.Infra.Http.pdb
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\bin\Debug\netstandard2.0\Fiap.Domain.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\bin\Debug\netstandard2.0\Fiap.Domain.pdb
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\obj\Debug\netstandard2.0\Fiap.Infra.Http.csprojAssemblyReference.cache
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\obj\Debug\netstandard2.0\Fiap.Infra.Http.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\obj\Debug\netstandard2.0\Fiap.Infra.Http.AssemblyInfoInputs.cache
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\obj\Debug\netstandard2.0\Fiap.Infra.Http.AssemblyInfo.cs
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\obj\Debug\netstandard2.0\Fiap.Infra.Http.csproj.CopyComplete
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\obj\Debug\netstandard2.0\Fiap.Infra.Http.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.Http\obj\Debug\netstandard2.0\Fiap.Infra.Http.pdb

@@ -1,0 +1,16 @@
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Infra.DI.deps.json
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Infra.DI.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Infra.DI.pdb
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Application.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Domain.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Infra.Http.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Application.pdb
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Domain.pdb
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\bin\Debug\netstandard2.0\Fiap.Infra.Http.pdb
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\obj\Debug\netstandard2.0\Fiap.Infra.DI.csprojAssemblyReference.cache
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\obj\Debug\netstandard2.0\Fiap.Infra.DI.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\obj\Debug\netstandard2.0\Fiap.Infra.DI.AssemblyInfoInputs.cache
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\obj\Debug\netstandard2.0\Fiap.Infra.DI.AssemblyInfo.cs
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\obj\Debug\netstandard2.0\Fiap.Infra.DI.csproj.CopyComplete
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\obj\Debug\netstandard2.0\Fiap.Infra.DI.dll
+C:\MeusProjetos\FIAP\src\4-Infra\Fiap.Infra.DI\obj\Debug\netstandard2.0\Fiap.Infra.DI.pdb

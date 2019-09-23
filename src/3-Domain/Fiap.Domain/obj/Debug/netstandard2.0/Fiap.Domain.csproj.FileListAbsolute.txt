@@ -1,0 +1,9 @@
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\bin\Debug\netstandard2.0\Fiap.Domain.deps.json
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\bin\Debug\netstandard2.0\Fiap.Domain.dll
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\bin\Debug\netstandard2.0\Fiap.Domain.pdb
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\obj\Debug\netstandard2.0\Fiap.Domain.csprojAssemblyReference.cache
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\obj\Debug\netstandard2.0\Fiap.Domain.csproj.CoreCompileInputs.cache
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\obj\Debug\netstandard2.0\Fiap.Domain.AssemblyInfoInputs.cache
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\obj\Debug\netstandard2.0\Fiap.Domain.AssemblyInfo.cs
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\obj\Debug\netstandard2.0\Fiap.Domain.dll
+C:\MeusProjetos\FIAP\src\3-Domain\Fiap.Domain\obj\Debug\netstandard2.0\Fiap.Domain.pdb
