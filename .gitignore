@@ -352,3 +352,5 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 151.101.92.133
+
+/1-Front/Fiap.Mvc/bin/*

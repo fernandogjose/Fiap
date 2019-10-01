@@ -195,41 +195,37 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ferna\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\f.jose\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\MeusProjetos\\FIAP\\src\\2-Application\\Fiap.Application\\Fiap.Application.csproj",
+      "projectUniqueName": "C:\\MeusProjetos\\Fiap\\src\\2-Application\\Fiap.Application\\Fiap.Application.csproj",
       "projectName": "Fiap.Application",
-      "projectPath": "C:\\MeusProjetos\\FIAP\\src\\2-Application\\Fiap.Application\\Fiap.Application.csproj",
-      "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\MeusProjetos\\FIAP\\src\\2-Application\\Fiap.Application\\obj\\",
+      "projectPath": "C:\\MeusProjetos\\Fiap\\src\\2-Application\\Fiap.Application\\Fiap.Application.csproj",
+      "packagesPath": "C:\\Users\\f.jose\\.nuget\\packages\\",
+      "outputPath": "C:\\MeusProjetos\\Fiap\\src\\2-Application\\Fiap.Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\f.jose\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://avivatecdev.pkgs.visualstudio.com/_packaging/Avivatec.Core/nuget/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
           "projectReferences": {
-            "C:\\MeusProjetos\\FIAP\\src\\3-Domain\\Fiap.Domain\\Fiap.Domain.csproj": {
-              "projectPath": "C:\\MeusProjetos\\FIAP\\src\\3-Domain\\Fiap.Domain\\Fiap.Domain.csproj"
+            "C:\\MeusProjetos\\Fiap\\src\\3-Domain\\Fiap.Domain\\Fiap.Domain.csproj": {
+              "projectPath": "C:\\MeusProjetos\\Fiap\\src\\3-Domain\\Fiap.Domain\\Fiap.Domain.csproj"
             }
           }
         }
