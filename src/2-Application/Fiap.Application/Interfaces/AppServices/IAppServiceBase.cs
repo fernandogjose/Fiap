@@ -9,7 +9,7 @@ namespace Fiap.Application.Interfaces.AppServices
         void Add(T entidade);
         void Update(T entidade);
         T Get(int pId);
-        IEnumerable<T> Get();
+        IEnumerable<T> List();
         void Delete(int pId);
     }
 }

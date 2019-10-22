@@ -24,11 +24,11 @@ C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Mvc.Views
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Application.dll
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Domain.dll
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.DI.dll
-C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.Http.dll
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Application.pdb
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.DI.pdb
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Domain.pdb
-C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.Http.pdb
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\obj\Debug\netcoreapp2.2\Fiap.Mvc.Views.pdb
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\obj\Debug\netcoreapp2.2\Fiap.Mvc.csproj.CopyComplete
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\wwwroot\manifest.json
+C:\MeusProjetos\Fiap\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.Data.dll
+C:\MeusProjetos\Fiap\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.Data.pdb

@@ -1,20 +1,15 @@
 ﻿using AutoMapper;
+using Avivatec.Certa.Operacao.Core.Application.AppServices;
 using Fiap.Application.Interfaces.AppServices;
+using Fiap.Domain.Entities;
 using Fiap.Domain.Interfaces.DomainServices;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace Fiap.Application.AppServices
 {
-    public class ReceitaAppService : IReceitaAppService
+    public class ReceitaAppService : AppServiceBase<Receita>, IReceitaAppService
     {
-        private readonly IReceitaService _receitaService;
-        private readonly IMapper _mapper;
-
-        public ReceitaAppService(IReceitaService receitaService, IMapper mapper)
+        public ReceitaAppService(IReceitaService receitaService, IMapper mapper) : base(receitaService, mapper)
         {
-            _receitaService = receitaService;
-            _mapper = mapper;
         }
     }
 }

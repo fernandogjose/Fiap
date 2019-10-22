@@ -13,7 +13,6 @@
     <ProjectReference Include="..\..\2-Application\Fiap.Application\Fiap.Application.csproj" />
     <ProjectReference Include="..\..\3-Domain\Fiap.Domain\Fiap.Domain.csproj" />
     <ProjectReference Include="..\Fiap.Infra.Data\Fiap.Infra.Data.csproj" />
-    <ProjectReference Include="..\Fiap.Infra.Http\Fiap.Infra.Http.csproj" />
   </ItemGroup>
 
 </Project>

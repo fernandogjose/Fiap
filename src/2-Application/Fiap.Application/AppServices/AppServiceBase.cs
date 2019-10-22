@@ -4,16 +4,15 @@ using Fiap.Domain.Entities;
 using Fiap.Domain.Interfaces.DomainServices;
 using System;
 using System.Collections.Generic;
-using System.Linq.Expressions;
 
 namespace Avivatec.Certa.Operacao.Core.Application.AppServices
 {
     public class AppServiceBase<T> : IDisposable, IAppServiceBase<T> where T : BaseEntity<T>
     {
-        protected readonly IServiceBase<T> _serviceBase;
+        protected readonly IBaseService<T> _serviceBase;
         protected readonly IMapper _mapper;
 
-        public AppServiceBase(IServiceBase<T> pServiceBase, IMapper mapper)
+        public AppServiceBase(IBaseService<T> pServiceBase, IMapper mapper)
         {
             _serviceBase = pServiceBase;
             _mapper = mapper;
@@ -46,7 +45,7 @@ namespace Avivatec.Certa.Operacao.Core.Application.AppServices
             }
         }
 
-        public IEnumerable<T> Get()
+        public IEnumerable<T> List()
         {
             try
             {
@@ -86,7 +85,6 @@ namespace Avivatec.Certa.Operacao.Core.Application.AppServices
         {
             try
             {
-                this._serviceBase.Dispose();
                 GC.SuppressFinalize(this);
             }
             catch (Exception ex)
