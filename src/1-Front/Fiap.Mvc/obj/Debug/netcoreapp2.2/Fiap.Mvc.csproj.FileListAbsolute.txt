@@ -32,3 +32,5 @@ C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\obj\Debug\netcoreapp2.2\Fiap.Mvc.cspro
 C:\MeusProjetos\FIAP\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\wwwroot\manifest.json
 C:\MeusProjetos\Fiap\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.Data.dll
 C:\MeusProjetos\Fiap\src\1-Front\Fiap.Mvc\bin\Debug\netcoreapp2.2\Fiap.Infra.Data.pdb
+C:\MeusProjetos\Fiap\src\1-Front\Fiap.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Editar.g.cshtml.cs
+C:\MeusProjetos\Fiap\src\1-Front\Fiap.Mvc\obj\Debug\netcoreapp2.2\Razor\Views\Home\Novo.g.cshtml.cs
