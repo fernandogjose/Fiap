@@ -7,6 +7,9 @@ using Fiap.Domain.Interfaces.Https;
 using Fiap.Domain.Services;
 using Fiap.Domain.Validations;
 using Fiap.Infra.Http.Https;
+using Fiap.Domain.Interfaces.Repositories;
+using Fiap.Infra.Data.Repositories;
+using AutoMapper;
 
 namespace Fiap.Infra.DI {
     public class Bootstrap {
@@ -27,6 +30,13 @@ namespace Fiap.Infra.DI {
 
             //--- app service
             services.AddSingleton<IBlogAppService, BlogAppService> ();
+
+            //services.AddSingleton((IConfigurationProvider)Application.AutoMapper.AutoMapperConfiguration.RegisterMappings());
+            //services.AddScoped<IMapper>(x => new Mapper(x.GetRequiredService<AutoMapper.IConfigurationProvider>(), x.GetService));
+
+            services.AddScoped<IReceitaAppService, ReceitaAppService>();
+            services.AddScoped<IReceitaService, ReceitaService>();
+            services.AddScoped<IReceitaRepository, ReceitaRepository>();
         }
     }
 }
